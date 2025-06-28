@@ -11,7 +11,7 @@
 
 ## Helpful Links
 
-- [Microsoft Learn: AZ-900 Learning Path][https://learn.microsoft.com/en-us/collections/n6ga8m0jkgrwk?&sharingId=6FD71EB37FE899A0](url)
+- [Microsoft Learn: AZ-900 Learning Path][]([url](https://learn.microsoft.com/en-us/collections/n6ga8m0jkgrwk?&sharingId=6FD71EB37FE899A0))
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 
 ## Study Plan
